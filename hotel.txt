@@ -1,0 +1,4 @@
+hotel one
+hotel two
+hotel three
+hotel four
